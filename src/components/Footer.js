@@ -9,17 +9,17 @@ import {FaGithub,FaLinkedin,FaMailBulk,FaPhone,} from "react-icons/fa";
           <div className="left">
             <div className="location">
              
-            <a href="https://github.com/krish-1712">
+            <a className="img-inherit" href="https://github.com/krish-1712">
                 <FaGithub
                   size={25}
-                  style={{ color: "#fff", marginRight: "1rem" }}
+                  style={{ color: "#fff"}}
                 /><h4>Github</h4>
               </a>
            
-              <a href="https://www.linkedin.com/in/balakrishnan-k-03a6851b0/"  >
+              <a className="img-inherit" href="https://www.linkedin.com/in/balakrishnan-k-03a6851b0/"  >
                 <FaLinkedin
                   size={25}
-                  style={{ color: "#fff", marginRight: "1rem" }}
+                  style={{ color: "#fff"}}
                 /><h4 className="din">Linkedin</h4>
               </a>
             </div>

@@ -20,15 +20,19 @@
 .location{
     display: flex;
     margin-bottom: 0.8rem;
-    margin-left: 10px;
 }
 
 .location p{
     line-height: 30px;
 
 }
+.img-inherit {
+    display: inherit;
+    padding-right: 10px;
+}
 .location .din{
-    margin-left: 10px;
+    /* margin-left: 10px; */
+    display: inline-block;
 
 }
 .right{
