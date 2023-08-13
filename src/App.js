@@ -7,6 +7,7 @@ import Contact from "./routes/Contact"
 import { Route, Routes } from "react-router-dom";
 import Skills from "./routes/Skills";
 
+
 function App() {
   return (
     <div className="App">

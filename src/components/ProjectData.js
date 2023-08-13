@@ -29,6 +29,14 @@ const ProjectsData = [
         frontendsource: "https://github.com/krish-1712/CRM-Frontend.git",
         backendsource: "https://github.com/krish-1712/CRM-backend.git",
     },
+    {
+        imgsrc: "https://images.unsplash.com/photo-1547082299-de196ea013d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        title: "Password Reset Application",
+        description: "loremipsumeskjchdbclkamcjkasbckaca",
+        view: "https://rococo-meringue-ea3058.netlify.app/",
+        frontendsource: "https://github.com/krish-1712/password-reset-frontend.git",
+        backendsource: "https://github.com/krish-1712/password-reset.git",
+    },
 ];
 
 export default ProjectsData;
