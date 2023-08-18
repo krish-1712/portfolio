@@ -1,32 +1,16 @@
-import { Link } from "react-router-dom";
 import "./AboutContent.css";
 import React from 'react'
 
 const AboutContent = () => {
   return (
     <div className="about">
-      <div className="left">
-        <h1>Who Am I</h1>
-        <p>
-          1. I am a FullStack Developer(MERN Stack).<br></br> 2. I create responsive secured web application as per the need.<br></br>
-          3. Seeking a responsible position with a determination to make a good career and use it in the right path of growth and success of organization.
-        </p>
-        <Link to="/contact">
-          <button className="btn">Contact</button>
-        </Link>
-      </div>
-      <div className="right">
-        <div className="img-container">
-          <div className="img-stack top">
-            <img
-              className="img"
-              src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2062&q=80"
-              alt="react"
-            />
-          </div>
-
-        </div>
-      </div>
+ <div class="my-container">
+        <p>Hello, I'm Balakrishnan, my expertise lies in making complicated things easy to understand. I studied Instrumentation and Control Engineering for my Bachelor's degree. This journey has taught me how to simplify things for you, and I'm excited to share what I've learned!. When I'm not working, I enjoy playing cricket and football. I also love listening to music. Let's connect through these interests as we learn together!. I believe in working hard and aiming for the best. I value continuous learning and adaptability, which help me find effective solutions and get great results. I'm really good at designing user-friendly interfaces. My strengths include managing my time well and being adaptable. I use these skills to help you understand things better and succeed.</p>
+        
+        <p>I have some goals in mind! In the short term, I want to get a job in a good company. Looking ahead, my long-term goal is to achieve a good position in the same company. I'm all about teamwork! I'm straightforward and clear, and I love working with others. Let's make learning easy and fun together!</p>
+        
+        <p>I'm not just a Software Engineer—I'm also passionate about traveling. When I'm not busy with cricket, I'm here to make learning enjoyable and relatable. Let's team up and learn together!. Have questions or want to talk? Feel free to <a href="mailto:krishkannan1712@gmail.com" style={{color:"blue"}}>email me</a>. Let's connect!</p>
+    </div>
     </div>
   )
 }

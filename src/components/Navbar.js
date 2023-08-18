@@ -23,27 +23,18 @@ const Navbar = () => {
 
   return (
     <div className={color ? "header header-bg":"header"}>
-        <Link to="/">
-            <h1>Portfolio</h1>
-        </Link>
         <ul className={click ? "nav-menu    active" : "nav-menu"}>
             <li>
-                <Link to="/">Home</Link>
+                <Link to="/">HOME</Link>
             </li>
             <li>
-                <Link to="/about">About</Link>
+                <Link to="/about">ABOUT</Link>
             </li>
             <li>
-                <Link to="/skills">Skills</Link>
+                <Link to="/skills">SKILLS</Link>
             </li>
             <li>
-            <Link to="/project">Project</Link>
-            </li>
-            <li>
-            <Link to="https://drive.google.com/file/d/1lV3Ora5wGfTRxlBH8DnkC16j9BpyWbJZ/view">Resume</Link>
-            </li>
-            <li>
-                <Link to="/contact">Contact</Link>
+            <Link to="/project">PROJECTS</Link>
             </li>
         </ul>
         <div className="hamburger" onClick={handleClick}>

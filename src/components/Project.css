@@ -1,48 +1,61 @@
-.project-heading{
-    text-align: center;
-    padding: 4rem 0 2rem 0;
+.skill{
+ 
+    position: relative;
+
 }
-.project-container{
-    max-width: 1140px;
-    margin: auto;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 40px;
-    padding-bottom: 5rem;
-}
-.project-card{
-    background: #1a1919;
-    padding: 1.2rem 1rem;
-}
-.project-card img{
-    height: 300px;
+
+.skill::before{
+    content: "";
+    height: 100%;
     width: 100%;
+    position:absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+
+
 }
-.project-title{
-    color: #fff;
-    padding: 1rem 0;
+
+.skill-bx{
+    
     text-align: center;
+    padding: 60px 50px;
 }
-.project-details p{
-    padding-bottom: 1rem;
-    font-size: 1.1rem;
-    text-align: justify;
+.skill h5{
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
 }
-.project-btns{
-    display: flex;
-    flex-wrap: wrap;
-    height: auto;
-    justify-content: center;
-    gap: 20px;
-    padding: 0.5rem 0;
+
+.skill-slider .item img{
+    height: 200px;
+
+    border-radius: 30%;
+    object-fit: contain;
+    margin: 0 auto 15px auto;
 }
-.project-btns .btn{
-    padding: 0.5rem 1rem;
+
+.proj-border {
+    height: 300px;
+    color: white;
+    padding: 30px;
+    
 }
-@media screen and (max-width: 900px){
-    .project-container{
-        max-width: 90%;
-        margin: auto;
-        grid-template-columns: 1fr;
-    }
+
+
+#lite{
+    width: 600px;
+    padding-right: 300px;
+}
+
+
+
+.fa-google{
+
+   font-size: 25px;
+   padding-left:30px;
+   
+}
+.loot{
+    padding-top: 10px;
 }
