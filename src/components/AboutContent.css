@@ -1,4 +1,4 @@
-.about{
+.about {
     width: 100%;
     margin: 3rem 0;
     display: flex;
@@ -7,16 +7,15 @@
     flex-wrap: wrap;
     height: 100%;
 }
-.about .left{
+
+.about .left {
     text-align: center;
     margin: auto;
     padding: 1rem;
 
 }
 
-.btn{
-    margin-top: 20px;
-}
+
 
 .my-container {
     max-width: 1200px;
@@ -25,21 +24,21 @@
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
+
 h1 {
     color: #333;
 }
+
 p {
     color: #666;
     line-height: 1.6;
 }
+
 .contact {
     margin-top: 20px;
 }
+
 .contact a {
     color: #007bff;
     text-decoration: none;
 }
-
-  
-
-  

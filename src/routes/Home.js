@@ -7,12 +7,12 @@ import Footer from '../components/Footer';
 const Home = () => {
   return (
     <div>
-        <Navbar/>    
-        <Heroimg/>
-        <Footer/>
-    </div> 
-    
-  ) 
+      <Navbar />
+      <Heroimg />
+      <Footer />
+    </div>
+
+  )
 }
 
 export default Home

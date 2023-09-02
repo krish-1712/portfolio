@@ -9,7 +9,7 @@ const About = () => {
     <div>
       <Navbar />
       <Heroimg2 />
-      <AboutContent/>
+      <AboutContent />
       <Footer />
     </div>
   )
