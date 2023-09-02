@@ -15,7 +15,7 @@ const ProjectsData = [
     },
     {
         imgsrc: "https://images.unsplash.com/photo-1567667778211-b19f5a4e1efe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-        title: "Restaurants App",
+        title: "Restaurants",
         view: "https://cool-horse-d93125.netlify.app/",
         frontendsource: "https://github.com/krish-1712/Restaurants-frontend.git",
         backendsource: "https://github.com/krish-1712/Restaurants-backend.git",
