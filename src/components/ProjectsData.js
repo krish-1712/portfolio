@@ -9,7 +9,7 @@ const ProjectsData = [
     {
         imgsrc: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         title: "Customer Relationship Management",
-        view: "https://clinquant-kelpie-587408.netlify.app/",
+        view: "https://exquisite-wisp-21a922.netlify.app/",
         frontendsource: "https://github.com/krish-1712/CRM-Frontend.git",
         backendsource: "https://github.com/krish-1712/CRM-backend.git",
     },
