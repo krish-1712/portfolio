@@ -14,7 +14,7 @@ const Heroimg = () => {
         <h1 style={{ color: "white" }}>Software Developer (MERN)</h1>
         <div style={{ marginTop: "10px" }}>
           <Link to="/project" className="btn">Projects</Link>
-          <Link to="https://drive.google.com/file/d/1ghYo614aT9kjG2zdxS4XtX22oSPVzgps/view?usp=sharing" target="_blank" className="btn btn-light">Resume</Link>
+          <Link to="https://drive.google.com/file/d/1MUFY6kI-ptrYSPHK9AF19lg9WeyfIcOA/view?usp=sharing" target="_blank" className="btn btn-light">Resume</Link>
         </div>
 
       </div>
