@@ -12,7 +12,7 @@ const Project = (props) => {
           <a href={props.view} className="btn" target="_blank" >
             View
           </a>
-          <div>
+          
             <a href={props.frontendsource} className="btn"  target="_blank">
               <span className="btn-icon">🔍</span> FrontEnd
             </a>
@@ -21,7 +21,7 @@ const Project = (props) => {
                 <span className="btn-icon">🔍</span> BackEnd
               </a>
             )}
-          </div>
+        
         </div>
       </div>
     </div>
