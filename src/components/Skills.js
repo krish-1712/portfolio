@@ -39,7 +39,7 @@ const Skills = () => {
                   className="skill-slider"
                 >
                   <div className="item">
-                    <img src="https://i.redd.it/k0djb2a8hwr41.png" alt="js" style={{ "marginTop": "50px" }} />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" style={{ "marginTop": "50px" }} />
                   </div>
                   <div className="item">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="html" style={{ "marginTop": "50px" }} />
