@@ -1,7 +1,7 @@
 const ProjectsData = [
     {
         imgsrc: "https://images.unsplash.com/photo-1616469829526-7057a1427626?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-        title: "YouTube Clone",
+        title: "YouTube Applications",
         view: "	https://adorable-tarsier-dc0432.netlify.app/",
         frontendsource: "https://github.com/krish-1712/MediaApplication-Frontend",
         backendsource: "https://github.com/krish-1712/MediaApplication-Backend.git",
@@ -15,7 +15,7 @@ const ProjectsData = [
     },
     {
         imgsrc: "https://images.unsplash.com/photo-1567667778211-b19f5a4e1efe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-        title: "Restaurants",
+        title: "Restaurants Applications",
         view: "https://cool-horse-d93125.netlify.app/",
         frontendsource: "https://github.com/krish-1712/Restaurants-frontend.git",
         backendsource: "https://github.com/krish-1712/Restaurants-backend.git",
